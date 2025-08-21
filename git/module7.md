@@ -24,3 +24,6 @@
 
 - Creamos una rama para crear una funcionalidad, después subimos los cambios, pero antes hacemos una Pull Requests para que todos los miembros del equipo la puedan revisar para poder añadir la funcionalidad al código.
 
+7.10 Flujo recomendado para proyectos grandes.
+
+- git flow para trabajar en equipo, ofrece una estructura eficiente.
